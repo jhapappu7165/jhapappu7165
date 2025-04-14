@@ -38,7 +38,7 @@
 - 🔬 Undergraduate Student Researcher at Cyber Innovation Lab under Dr. Nick Rahimi
 - 🤖 Conducting research on **Data Science**, developing ML models to solve real-world challenges
 - 🌱 Currently learning: **Full-Stack Development** & **Machine Learning**
-- 📰 Web Producer at [rhcjcnews.com](https://rhcjcnews.com)
+- 📰 Web Producer at [Roy Howard Community Journalism Center (RHCJC)](https://rhcjcnews.com/staff_name/pappu-jha/)
 - 🧠 Passionate about simplifying tech through education
 
 ---
