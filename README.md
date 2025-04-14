@@ -61,9 +61,9 @@
 
 ### 📫 Let's Connect
 
-- ✉️ [pappu.jha@usm.edu](mailto:pappu.jha@usm.edu)  
-- 🌐 [jhapappu.com.np](http://jhapappu.com.np)  
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/jhapappu)  
+- ✉️ [Email](mailto:pappu.jha@usm.edu)  
+- 🌐 [Portfolio](http://jhapappu.com.np)  
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/pappujha2004/)  
 
 ---
 
