@@ -4,10 +4,6 @@
   <em>Computer Science Student | ML Researcher | Tech Enthusiast</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jhapappu7165&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge" />
-</p>
-
 ---
 
 ### 🔧 Tech Stack
@@ -34,7 +30,7 @@
 ### 📘 About Me
 
 - 🎓 Computer Science undergrad @ **The University of Southern Mississippi**
-- 🔬 Undergraduate Student Research at Cyber Innovation Lab under Dr. Nick Rahimi
+- 🔬 Undergraduate Student Researcher at Cyber Innovation Lab under Dr. Nick Rahimi
 - 🤖 Conducting research on **Data Science**, developing ML models to solve real-world challenges
 - 🌱 Currently learning: **Full-Stack Development** & **Machine Learning**
 - 📰 Web Producer at [rhcjcnews.com](https://rhcjcnews.com)
