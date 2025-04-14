@@ -34,6 +34,7 @@
 ### 📘 About Me
 
 - 🎓 Computer Science undergrad @ **The University of Southern Mississippi**
+- 🔬 Undergraduate Student Research at Cyber Innovation Lab under Dr. Nick Rahimi
 - 🤖 Conducting research on **Data Science**, developing ML models to solve real-world challenges
 - 🌱 Currently learning: **Full-Stack Development** & **Machine Learning**
 - 📰 Web Producer at [rhcjcnews.com](https://rhcjcnews.com)
