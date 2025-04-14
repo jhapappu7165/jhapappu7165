@@ -9,6 +9,8 @@
 ---
 
 ### 🔧 Tech Stack
+<img src="ml_enthusiast_animation.gif" width="300px" height="auto" align="right" padding-top="0" margin-top="0">
+
 
 - 💻 Languages:  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -17,6 +19,7 @@
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
 
 - 🧠 Machine Learning Tools:  
   `Pandas`, `NumPy`, `Scikit-learn`, `XGBoost`, `Matplotlib`, `Seaborn`, `Random Forest`, `Logistic Regression`, `Naive Bayes`, `Decision Tree`
