@@ -18,7 +18,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-- 🧠 ML Tools:  
+- 🧠 Machine Learning Tools:  
   `Pandas`, `NumPy`, `Scikit-learn`, `XGBoost`, `Matplotlib`, `Seaborn`, `Random Forest`, `Logistic Regression`, `Naive Bayes`, `Decision Tree`
 
 - 🌐 Technologies:  
