@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76D6D&width=435&lines=Hi+there%2C+I'm+Pappu+%F0%9F%91%8B" alt="Typing Intro" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F76D6D&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Pappu+%F0%9F%91%8B" alt="Typing Header" />
+</h1>
 
 <p align="center">
   <em>Computer Science Student | ML Researcher | Tech Enthusiast</em>
