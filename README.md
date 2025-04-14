@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Pappu+%F0%9F%91%8B" alt="Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=➡️+Hi+there+%F0%9F%91%8B+%2C+I'm+Pappu..." alt="Typing Header" />
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
 ---
 
 ### 🔧 Tech Stack
-<img src="ml_enthusiast_animation.gif" width="300px" height="auto" align="right" padding-top="0" margin-top="0">
+<img src="ml_enthusiast_animation.gif" width="400px" height="400px" align="right" padding-top="0" margin-top="0">
 
 
 - 💻 Languages:  
