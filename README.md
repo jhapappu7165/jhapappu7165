@@ -35,5 +35,5 @@
 ### 📫 Let's Connect
 
 - ✉️ [pappu.jha@usm.edu](mailto:pappu.jha@usm.edu)
-- 🌐 [jhapappu.com.np](https://jhapappu.com.np)]
+- 🌐 [jhapappu.com.np](https://jhapappu.com.np)
 - 🧑‍💼 [LinkedIn](https://linkedin.com/in/jhapappu)
