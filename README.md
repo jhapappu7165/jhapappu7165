@@ -9,7 +9,7 @@
 ---
 
 ### 🔧 Tech Stack
-<img src="ml_enthusiast_animation.gif" width="400px" height="400px" align="right" padding-top="0" margin-top="0">
+<img src="blinking_ml.gif" width="400px" height="400px" align="right" padding-top="0" margin-top="0">
 
 
 - 💻 Languages:  
