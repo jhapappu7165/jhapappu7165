@@ -9,8 +9,6 @@
 ---
 
 ### 🔧 Tech Stack
-<img src="blinking_ml.gif" width="300px" height="300px" align="right" padding-top="0" margin-top="0">
-
 
 - 💻 Languages:  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -32,12 +30,15 @@
   ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ---
 
 ### 📘 About Me
 - 🎓 An Undergraduate Junior majoring in Computer Science at **The University of Southern Mississippi**
 - 📰 Research Assistant (RA) at [Institute for Advanced Analytics and Security (IAAS)](https://www.usm.edu/advanced-analytics-security/index.php)
-- 🔬 Undergraduate Student Researcher at Cyber Innovation Lab under Dr. Nick Rahimi
+- 🔬 Undergraduate Student Researcher at [Cyber Innovation Lab](https://www.linkedin.com/company/cyber-innovation-lab/) under Dr. Nick Rahimi
 - 🤖 Conducting research on **Data Science**, developing ML models to solve real-world challenges
 - 🌱 Currently learning: **Full-Stack Development** & **Machine Learning**
 - 🧠 Passionate about simplifying tech through education
@@ -61,9 +62,10 @@
 
 ### 📫 Let's Connect
 
-- ✉️ [Email](mailto:pappu.jha@usm.edu)  
 - 🌐 [Portfolio](https://jhapappu.com.np)  
+- ✉️ [Institutional Email](mailto:pappu.jha@usm.edu)  
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/pappujha2004/)  
+- ✉️ [Personal Email](mailto:jhapappu7165@gmail.com)  
 
 ---
 
