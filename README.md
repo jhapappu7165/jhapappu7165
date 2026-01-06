@@ -44,26 +44,26 @@
 - 🧠 Passionate about simplifying tech through education
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhapappu7165&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+### 📈 TEDx Southern Miss 2025
+
+<p align="left">
+  <a href="https://www.youtube.com/watch?v=rqj8lDFYZ4g" target="_blank">
+    <img src="https://img.youtube.com/vi/rqj8lDFYZ4g/maxresdefault.jpg" alt="TEDx Southern Miss 2025 - Pappu Jha" width="720" />
+  </a>
+  <br/>
+  <a href="https://www.youtube.com/watch?v=rqj8lDFYZ4g" target="_blank">
+    ▶️ Watch the TEDx talk on YouTube
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jhapappu7165&theme=tokyonight&hide_border=true&border_radius=6.5" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhapappu7165&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
 
 ---
 
 ### 📫 Let's Connect
 
 - 🌐 [Portfolio](https://jhapappu.com.np)  
-- ✉️ [Institutional Email](mailto:pappu.jha@usm.edu)  
+- ✉️ [University Email](mailto:pappu.jha@usm.edu)  
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/pappujha2004/)  
 - ✉️ [Personal Email](mailto:jhapappu7165@gmail.com)  
 
