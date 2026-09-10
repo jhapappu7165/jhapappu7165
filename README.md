@@ -36,12 +36,9 @@
 ---
 
 ### 📘 About Me
-- 🎓 An Undergraduate Junior majoring in Computer Science at **The University of Southern Mississippi**
-- 📰 Research Assistant (RA) at [Institute for Advanced Analytics and Security (IAAS)](https://www.usm.edu/advanced-analytics-security/index.php)
-- 🔬 Undergraduate Student Researcher at [Cyber Innovation Lab](https://www.linkedin.com/company/cyber-innovation-lab/) under Dr. Nick Rahimi
+- 🎓 An Undergraduate Senior majoring in Computer Science at **The University of Southern Mississippi**
+- 🔬 Research Assistant at [Cyber Innovation Lab](https://www.linkedin.com/company/cyber-innovation-lab/) under Dr. Nick Rahimi
 - 🤖 Conducting research on **Data Science**, developing ML models to solve real-world challenges
-- 🌱 Currently learning: **Full-Stack Development** & **Machine Learning**
-- 🧠 Passionate about simplifying tech through education
 ---
 
 
