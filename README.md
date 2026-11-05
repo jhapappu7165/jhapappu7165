@@ -18,21 +18,18 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 
-- 🧠 Machine Learning Tools:  
-  `Pandas`, `NumPy`, `Scikit-learn`, `XGBoost`, `Matplotlib`, `Seaborn`, `Random Forest`, `Logistic Regression`, `Naive Bayes`, `Decision Tree`
+- 🧠 Data Science Tools:  
+  `PySpark`, `Pandas`, `NumPy`, `SQL`, `Scikit-learn`, `Matplotlib`, `Seaborn`, `Random Forest`, `Logistic Regression`, `Naive Bayes`
 
-- 🌐 Technologies:  
-  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+- 🌐 Technologies:
+  ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
   ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+  ![API](https://img.shields.io/badge/API-009688?style=flat&logo=fastapi&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+  ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
 ---
 
 ### 📘 About Me
@@ -61,9 +58,9 @@
 
 - 🌐 [Portfolio](https://jhapappu.com.np)  
 - 📚 [Google Scholar](https://scholar.google.com/citations?user=7of6z2kAAAAJ&hl=en)
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/pappujha2004/)  
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/pappujha2004/)
+- 🆔 [ORCID](https://orcid.org/0009-0004-0710-6833)
 - ✉️ [Email](mailto:jhapappu7165@gmail.com)  
-
 ---
 
 <p align="center">
